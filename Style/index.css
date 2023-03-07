@@ -1,0 +1,194 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Box-la{
+    display:flex;
+    top:20px;
+    min-width: 1126px;
+    height:78px;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+.del-right{
+    display: flex;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: #312a20;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    margin-right: 20px;
+}
+i{
+    font-size: 16px;
+    margin-right: 8px;
+}
+.Del--dar{
+    justify-self: flex-start;
+}
+.dell--dare-links{
+    margin-right: 20px;
+}
+
+.section--1-link{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+
+    text-decoration-line: underline;
+
+    color: #f49508;
+}
+
+
+.section-a{
+    display: flex;
+    max-width: 1126px;
+    align-items: center;
+
+}
+.section-s{
+    margin-bottom: 100px;
+
+}
+.button-start{
+    width: 175px;
+    height: 53px;
+    margin-right: 30px;
+}
+
+.button-w{
+    border: 1px solid #BCD0E5;
+    background-color:white;
+    color: #173A56;
+}
+.button-w:hover{
+    border: none;
+    background-color: #FF9900;
+}
+button{
+    border-radius: 4px;
+    margin-right: 14px;
+    font-style: normal;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+}
+.del--dar-button{
+    width: 102px;
+    height: 46px;
+   
+    justify-self: flex-end;
+}
+.button-o{
+    border: none;
+    background-color: #FF9900;
+    color: #FFFFFF;
+}
+.button-o:hover{
+    border: 1px solid #BCD0E5;
+    background-color:white;
+    color: #173A56;
+}
+
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 54px;
+
+
+    color: #2F281E;
+    margin-bottom: 30px;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+
+    color: #2F281E;
+    margin-bottom: 22px;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+
+
+    color: #2F281E;
+    margin-bottom: 13px;
+}
+h4{
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+
+
+    color: #31291e;
+    margin-bottom: 12px;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+
+
+    color: #665843;
+    margin-bottom: 12px;
+}
+.pre-title{
+    margin:0px;
+}
+.delett{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    min-height: 543px;
+}
+.delvar{
+    max-width: 539px;
+    text-align: center;
+}
+.a-icons{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 30px;
+}
+.dell-1-buttons{
+    width: 175px;
+    height: 53px;
+}
+.del-a-cardholder{
+    display: flex;
+}
+.dell-b-c{
+    display: flex;
+    flex-direction: column;
+    max-width: 240px;
+    margin:54px 20px;
+}
+
+
