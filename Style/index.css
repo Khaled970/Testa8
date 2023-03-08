@@ -201,7 +201,6 @@ p{
     flex-direction: column;
     max-width: 486px;
     height: 531px;
-    /* justify-content: space-evenly; */
 }
 
 .adbc{
@@ -226,7 +225,6 @@ p{
     width: 35px;
     height:35px;
     margin-right: 30px;
-    /* align-self: baseline; */
 }
 sida-l{
     display: flex;
@@ -246,7 +244,6 @@ sida-l{
 .sidaae-tt{
     display:flex;
     flex-direction: column;
-    /* align-self: flex-end; */
 }
 
 .sida21-m{
